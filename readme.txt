@@ -1,8 +1,8 @@
 === URL Record ===
 
-Contributors: noe
+Contributors: Imanuel Novian (noe)
 Donate link: http://www.noeonline.info/
-Tags: url, record, log
+Tags: url, record, log, raw log
 Requires at least: 2.8
 Tested up to: 3.0.1
 Stable Tag: 3.0.1
@@ -34,3 +34,6 @@ no screen shot available for this plugin
 
 = 1.0 =
 Initial Version
+
+= 1.1 =
+Adding some new feature for easy manage your URL Record
