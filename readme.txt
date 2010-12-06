@@ -5,7 +5,7 @@ Donate link: http://www.noeonline.info/
 Tags: url, record, log, raw log
 Requires at least: 2.8
 Tested up to: 3.0.1
-Stable Tag: 3.0.1
+Stable Tag: 1.1
 
 This plugin will create an URL Record on your blog and will write all activity on your blog
 
